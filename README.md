@@ -1,16 +1,16 @@
-## Hi there 👋
+# Tim | Teazy
+Software Engineer
 
-<!--
-**TZY-1/TZY-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialized in backend development and interactive web applications. Primarily C# and whatever the job needs.
 
-Here are some ideas to get you started:
+Games, tools, mods, web apps. Mostly things that solve a specific problem or didn't exist yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
